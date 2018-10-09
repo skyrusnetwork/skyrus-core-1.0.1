@@ -4,7 +4,7 @@ This is the working repository for SKX Coin 4.2.0, our fork of bitcoin-core 0.13
 
 For more information please visit the website:
 
-https://skyrus.org/project-roadmap/
+https://skyrus.io
 
 [![Build Status](https://travis-ci.org/Skyrus/skyrus-core.svg?branch=master)](https://travis-ci.org/Skyrus/skyrus-core)
 
@@ -29,21 +29,20 @@ https://skyrus.org/project-roadmap/
 
 | Site | link |
 |:-----------|:-----------|
-| Medium | https://medium.com/skx-coin |
-| Twitter | https://twitter.com/Skyrus |
-| Discord | https://discord.gg/y4Vu9jw |
-| Telegram | https://t.me/skyrus |
-| Reddit | http://www.reddit.com/r/skyrus |
-| Facebook | https://www.facebook.com/Skyrus |
-| Instagram | https://www.instagram.com/skx.coin.official/ |
-| Bitcointalk | https://bitcointalk.org/index.php?topic=679791 |
+| Medium | https://medium.com/@SkyrusNetwork |
+| Twitter | https://twitter.com/SkyrusNetwork |
+| Telegram | https://t.me/SkyrusNetwork |
+| Reddit | http://www.reddit.com/r/skyrusnetwork |
+| Facebook | https://www.facebook.com/SkyrusNetwork |
+| Instagram | https://www.instagram.com/SkyrusNetwork |
+| Bitcointalk |  |
 
 ## Community Resources
 
 | Site | link |
 |:-----------|:-----------|
-| Trello Board | [https://trello.com/skx-community](https://trello.com/invite/b/rPdvVVL4/ba5c40a885fd3c02cda2a8b406ff7124/skx-community) |
-| Skx Community | http://skxcommunity.net |
+| Trello Board |  |
+| Skx Community |  |
 
 
 
