@@ -30,6 +30,7 @@ https://skyrus.io
 | Site | link |
 |:-----------|:-----------|
 | Medium | https://medium.com/@SkyrusNetwork |
+| Steemit | https://steemit.com/@SkyrusNetwork |
 | Twitter | https://twitter.com/SkyrusNetwork |
 | Telegram | https://t.me/SkyrusNetwork |
 | Reddit | http://www.reddit.com/r/skyrusnetwork |
