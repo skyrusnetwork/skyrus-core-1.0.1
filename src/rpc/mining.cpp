@@ -975,6 +975,7 @@ static const CRPCCommand commands[] =
     { "mining",             "prioritisetransaction",  &prioritisetransaction,  true  },
     { "mining",             "getblocktemplate",       &getblocktemplate,       true  },
     { "mining",             "submitblock",            &submitblock,            true  },
+    //{ "mining",             "setgenerate",            &setgenerate,            true  },
 
     { "generating",         "generatetoaddress",      &generatetoaddress,      true  },
 

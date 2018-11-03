@@ -1461,8 +1461,8 @@
     <message>
         <location line="+23"/>
         <source>149.28.120.195:52217
-45.32.127.152:52217
-</source>
+                45.32.127.152:52217
+        </source>
         <translation type="unfinished"></translation>
     </message>
 </context>

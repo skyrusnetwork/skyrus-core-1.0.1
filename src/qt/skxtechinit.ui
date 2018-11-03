@@ -93,8 +93,8 @@
      <widget class="QPlainTextEdit" name="plainTextEdit">
       <property name="plainText">
        <string>149.28.120.195:52217
-45.32.127.152:52217
-</string>
+      45.32.127.152:52217
+      </string>
       </property>
      </widget>
     </item>
