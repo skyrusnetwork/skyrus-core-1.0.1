@@ -25,6 +25,20 @@ https://www.skyrus.io
 | addanonserver | `149.28.120.195:52217` |
 | addanonserver | `45.32.127.152:52217` |
 
+## Social Channels
+
+| Site | link |
+|:-----------|:-----------|
+| Official channels | #skyruscoin-dev |
+| Official Website | https://skyrus.io |
+| Official Telegram | https://t.me/SkyrusNetwork |
+| Official Announcement Telegram | https://t.me/SkyrusNews |
+| Official Twitter | https://twitter.com/SkyrusNetwork |
+| Official Medium | https://medium.com/@skyrusnetwork |
+| Official Facebook | https://www.facebook.com/SkyrusNetwork |
+| Official Steemit | https://steemit.com/@skyrusnetwork |
+
+
 ## Community Resources
 
 | Site | link |
