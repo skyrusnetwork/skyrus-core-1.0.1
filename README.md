@@ -31,7 +31,7 @@ https://www.skyrus.io
 |:-----------|:-----------|
 | Official channels | #skyruscoin-dev |
 | Official Website | https://skyrus.io |
-| Official Telegram 
+| Official Telegram | https://t.me/SkyrusNet |
 | Official Announcement Telegram 
 | Official Twitter | https://twitter.com/SkyrusNetwork |
 | Official Medium | https://medium.com/@skyrusnetwork |
