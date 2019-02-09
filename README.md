@@ -37,6 +37,7 @@ https://www.skyrus.io
 | Official Medium | https://medium.com/@skyrusnetwork |
 | Official Facebook | https://www.facebook.com/SkyrusWorld |
 | Official Steemit | https://www.steemit.com/@skyrusnetwork |
+| Official Instagram | https://www.instagram.com/skyrusnetwork |
 
 
 ## Community Resources
