@@ -35,7 +35,7 @@ https://www.skyrus.io
 | Official Announcement Telegram 
 | Official Twitter | https://twitter.com/SkyrusNetwork |
 | Official Medium | https://medium.com/@skyrusnetwork |
-| Official Facebook | https://www.facebook.com/SkyrusNetwork |
+| Official Facebook | https://www.facebook.com/SkyrusWorld |
 | Official Steemit
 
 
